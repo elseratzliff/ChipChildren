@@ -1,0 +1,7 @@
+body {background-color: red;}
+
+img {
+                width: 50%; 
+                height: 50%; 
+                object-fit: contain; 
+            } 
